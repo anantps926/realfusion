@@ -9,7 +9,7 @@ matplotlib
 rich
 scipy
 huggingface_hub
-diffusers
+diffusers==0.15.0
 transformers
 xatlas
 scikit-learn
@@ -18,3 +18,7 @@ imageio-ffmpeg
 accelerate
 tensorboard
 typed-argument-parser
+tensorrt
+trimesh
+PyMCubes
+lovely-tensors
